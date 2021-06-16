@@ -1,2 +1,4 @@
-# CarRacingGame1.0
-Car Racing Game Stage 1.0
+#Message Karo!
+MESSAGE KARO
+Application to converse with someone randomly round the world.
+
